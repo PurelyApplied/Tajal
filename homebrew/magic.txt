@@ -1,4 +1,54 @@
-## OP: https://www.reddit.com/r/DnDBehindTheScreen/comments/7i8rf4/theories_on_the_origin_of_magic_and_the/
+# Okosh Varazlo, a master of some repute
+# Tanulo, his apprentice
+# Szaros, another master
+# Szolgalo, his less fortunate apprentice
+
+Tanulo marveled, not for the first time,
+ at the intricate mosaic that spread across the majority of the tower's entry hall.
+Hundreds, perhaps thousands of pieces of glass, ceramic, metal, stone, and several sizable gemstones
+ caused the floor to sparkle like the night sky.
+Together, they formed an enormous eight-pointed star.
+In his peripheral vision, the pieces seemed to be connected, faint light flowing between tiles
+ like rivulets of water running down the windows after rain.
+
+"Do not dawdle, boy."
+Master Varazlo cracked the heel of his staff against a flagstone near the center of the star as he strode past.
+A magic rune flared in the stone's face for a moment,
+ a flash of red and while light before fading again to cool, grey stone.
+In the same moment, the heavy beams that crossed the great doors of the wizard's tower moved, unbarring themselves.
+Tanulo continued to dawdle, staring in wide-eyed wonder.
+He had seen little real magic in the few weeks that he had spent as Master Varazlo's apprentice,
+ and the most notable had been the same trick when he arrived, albeit in reverse.
+
+"Tanulo," his master beckoned again, this time more gently.
+"We are about to greet guests.
+ There is a sense of occasion here, a call for propriety.
+ Please."
+He motioned to his side, where he faced the door.
+
+Tanulo hurried over.
+Next to his master, he felt small in every way a boy could feel small.
+His grey robes felt shabby against his master's finery.
+He didn't know what "propriety" was, but he doubted he had any.
+[...]
+
+# Nagging feeling that he doesn't belong, pout.
+# Varazlo adjusts his feet, spine, shoulders.
+# Kneel, eye contact,
+# "everything in the course of history has brought you to this moment.
+#  This is exactly where you belong.
+#  Hold on to that thought."
+# Warmth, not just a feeling but physical warmth floods Tanulo.
+# "Are you ready?  Just follow my lead."
+# Unexpected wink
+
+# State previously: Looking down one of the star's arms that reaches to the doorway.
+
+
+
+
+
+
 
   As he walked his guests out, Okosh Varazlo carefully but casually thumped his staff on one of the many
    indistinguishable tiles that made up the mosaic of his entryway floor.
@@ -12,7 +62,7 @@
   Tanulo, Okosh's apprentice, stumbled slightly as he followed his master, distracted by the dazzling display.
   Righting himself, he once again eyed their guests, another master and apprentice, with suspicion and jealousy.
 
-  "I know I hardly have to say this," Okosh said, "but I will be rather upset if anything happens to this."
+  "I know I hardly have to say this, Szaros," Okosh said, "but I will be rather upset if anything happens to this."
   His voice was simultaneously pleading and threatening as he made to hand a heavy tome to the other master.
 
   "It's not like you don't already have it memorized."
@@ -26,17 +76,24 @@
   "Just because I can doesn't mean I'd enjoy doing it."
 
   He frowned at the apprentice.
-  Okosh produced an oilcloth to wrap the book, placing one and then the other in the apprentices awkwardly outstretch hands.
+  Okosh produced an oilcloth to wrap the book,
+   placing one and then the other in the apprentices awkwardly outstretch hands.
   He fretted slightly over the knotwork, taking longer than most would to secure the parcel.
   Tying too tightly could damage the tome, but too loosely would let the elements in on their travel.
 
   Okosh did not look up as he tied his knots.
-  "I value this book more than your master values you."
-  He spoke softly, but did not whisper.
-  Whispering, he knew, would cause aspirate consonants to hiss and draw attention.
-  He had made a brief, dallying study of phonaesthetics earlier in his life.
-  It had been a passing fancy at the time, but it had proven itself valuable knowledge time and again.
-  "Notably, I will care if something bad happens to this book."
+  He knew to speak softly, but he would not whisper.
+  Whispering, of course, emphasizes aspiration, which in turn disproportionally stresses sibilance,
+   making words hiss and draw attention.
+  Okosh had made a study of phonaesthetics earlier in his life, investigating the nature of the verbal aspect required
+   by many spells.
+  The interest had been a passing fancy, and Okosh spent only a six years of research on the topic.
+  And while the knowledge had never borne fruit in his magical pursuits,
+   the practical application had proven useful time and again.
+
+  What Okosh spoke, quietly but unwhispered, was noticed only by Okosh spoke these words, quietly but unwhispered.
+  "I value this book more than your master values your well-being.
+    Notably, I will care if something bad happens to this book."
   He finished the last knot and met the apprentice's now-wide eyes for the breadth of a heartbeat.
   "Think on that."
 
