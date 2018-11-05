@@ -82,17 +82,23 @@
 % \newenvironment{name}[args][default]{before}{after}
 \newenvironment{aloud}{%
 \begin{quote}%
-\begin{it}%
+\begin{sl}%
 \begin{mdframed}[backgroundcolor=blue!10]
 }{%
 \end{mdframed}%
-\end{it}%
+\end{sl}%
 \end{quote}%
 }
 \newenvironment{character}[1]{
   \section{#1}
 }{\reset}
 
+\def\[#1\]{%
+\begin{aloud}#1\end{align}%
+}
+
+
+\newcommand{\Enyhito}{Enyh\'{\i}t\H{o}}
 
 \begin{document}
 
