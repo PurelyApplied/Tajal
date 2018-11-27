@@ -1,0 +1,88 @@
+player_character:
+  name: Beez
+  race: Half-orc
+  # Could expand here?
+  background: Soldier
+  alignment: Lawful Neutral
+  classes:
+    cleric:
+      level: 1
+      hit_die: d8
+      archtype: Grave Domain
+  maximum_hit_points: 11
+  proficiency_bonus: 2
+  proficiencies:
+    skills:
+      - athletics
+      - intimidation
+      - medicine
+      - persuasion
+      - survival
+    saving_throws:
+      - wisdom
+      - charisma
+    languages:
+      - common
+      - orc
+    armors:
+      - light
+      - medium
+      - heavy
+      - shields
+    weapons:
+      - simple
+    other:
+      - "Land vehicle: wagon"
+  features:
+    - feature:
+        name: Spellcasting
+        source_type: class
+        source: Cleric
+    - feature:
+        name: Darkvision
+        source_type: racial
+        source: Half-Orc
+    - feature:
+        name: Military Rank
+        source_type: background
+        source: Soldier
+    - feature:
+        name: Savage Attacks
+        source_type: racial
+        source: Half-Orc
+    - feature:
+        name: Circle of Mortality
+        source_type: archtype
+        source: Grave Domain
+    - feature:
+        name: Eye of the Grave
+        source_type: archtype
+        source: Grave Domain
+  attributes:
+    str: 16
+    dex: 10
+    con: 16
+    int: 9
+    wis: 15
+    cha: 8
+  inventory:
+    currency:
+      cp: 0
+      sp: 0
+      ep: 0
+      gp: 0
+      pp: 0
+    equipment:
+      - mace
+      - leather armor
+      - shield
+      - light crossbow
+      - chain mail
+
+  header_items:
+    - "Given name: Brukzhul"
+    - "Military alias: John Smith"
+  meta:
+    player_name: Allan Raymond
+    latex:
+      tag: pc:beez
