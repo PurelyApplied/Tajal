@@ -2,7 +2,7 @@ player_character:
   name: Spacky Dunderklump
   race: Forest Gnome
   # Could expand here?
-  background:
+  background: Folk Hero
   alignment: Chaotic Neutral
   classes:
     Ranger (UA):
@@ -52,9 +52,9 @@ player_character:
         source_type: racial
         source: Forest Gnome
     - feature:
-        name: UNKNOWN
+        name: Rustic Hospitality
         source_type: background
-        source: UNKNOWN
+        source: Folk Hero
     - feature:
         name: "Favored Enemy: Beasts"
         source_type: class
