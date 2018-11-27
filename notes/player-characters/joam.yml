@@ -26,7 +26,6 @@ player_character:
       - illiterate
     armors:
       - light
-      - shields
     weapons:
       - simple
     other:

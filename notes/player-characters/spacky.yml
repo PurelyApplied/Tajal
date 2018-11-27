@@ -1,0 +1,91 @@
+player_character:
+  name: Spacky Dunderklump
+  race: Forest Gnome
+  # Could expand here?
+  background:
+  alignment: Chaotic Neutral
+  classes:
+    Ranger (UA):
+      level: 1
+      hit_die: d10
+      # archtype: n/a
+  maximum_hit_points: 12
+  proficiency_bonus: 2
+  proficiencies:
+    saving_throws:
+      - strength
+      - dexterity
+    skills:
+    - animal handling
+    - athletics
+    - perception
+    - stealth
+    - survival
+    languages:
+      - common
+      - elvish
+      - gnomish
+    armors:
+      - light
+      - medium
+      - shields
+    weapons:
+      - simple
+      - martial
+    other:
+      - Herbalism kit
+  features:
+    - feature:
+        name: Darkvision
+        source_type: racial
+        source: Gnome
+    - feature:
+        name: Gnomish Cunning
+        source_type: racial
+        source: Gnome
+    - feature:
+        name: Natural Illusionist
+        source_type: racial
+        source: Forest Gnome
+    - feature:
+        name: Speak with Small Beasts
+        source_type: racial
+        source: Forest Gnome
+    - feature:
+        name: UNKNOWN
+        source_type: background
+        source: UNKNOWN
+    - feature:
+        name: "Favored Enemy: Beasts"
+        source_type: class
+        source: Ranger (UA)
+        description: "You have advantage to track or recall information on your favored enemy."
+    - feature:
+        name: Natural Explorer
+        source_type: class
+        source: Ranger (UA)
+  attributes:
+    str: 10
+    dex: 17
+    con: 15
+    int: 10
+    wis: 10
+    cha: 12
+  inventory:
+    currency:
+      cp: 0
+      sp: 0
+      ep: 0
+      gp: 5
+      pp: 0
+    equipment:
+      - scale mail
+      - dagger (2)
+      - explorer's pack
+      - light crossbow
+  header_items:
+    - "Tracker for the Crazy Kua-toa"
+  meta:
+    player_name: Alex McGill
+    avatar_url: "https://s3.amazonaws.com/files.d20.io/images/50882935/Xtr1BxMgQ1lRiImWoAAlDg/med.png?1522360914"
+    latex_tag: pc:spacky
