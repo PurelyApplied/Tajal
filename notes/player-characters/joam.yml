@@ -1,38 +1,36 @@
 player_character:
-  name: Beez
+  name: Jo'am Sea-Lily
   race: Half-orc
   # Could expand here?
-  background: Soldier
-  alignment: Lawful Neutral
+  background: Hermit
+  alignment: Chaotic Neutral
   classes:
-    cleric:
+    warlock:
       level: 1
       hit_die: d8
-      archtype: Grave Domain
-  maximum_hit_points: 11
+      archtype: Great Old One (homebrew)
+  maximum_hit_points: 10
   proficiency_bonus: 2
   proficiencies:
     saving_throws:
       - wisdom
       - charisma
     skills:
-    - athletics
+    - deception
     - intimidation
     - medicine
-    - persuasion
-    - survival
+    - nature
+    - religion
     languages:
-      - common
-      - orc
+      - common (spoken)
+      - illiterate
     armors:
       - light
-      - medium
-      - heavy
       - shields
     weapons:
       - simple
     other:
-      - "Land vehicle: wagon"
+      - Herbalism kit
   features:
     - feature:
         name: Darkvision
@@ -47,13 +45,19 @@ player_character:
         source_type: racial
         source: Half-Orc
     - feature:
-        name: Military Rank
+        name: Discovery
         source_type: background
-        source: Soldier
+        source: Hermit
+        description: You recognize stories about Gran.
     - feature:
-        name: Spellcasting
+        name: Otherworldly Patron
         source_type: class
-        source: Cleric
+        source: Warlock
+        description: Something cohabitates your mind.
+    - feature:
+        name: Pact Magic
+        source_type: class
+        source: Warlock
     - feature:
         name: Circle of Mortality
         source_type: archtype
@@ -63,30 +67,30 @@ player_character:
         source_type: archtype
         source: Grave Domain
   attributes:
-    str: 16
+    str: 15
     dex: 10
-    con: 16
-    int: 9
-    wis: 15
-    cha: 8
+    con: 15
+    int: 8
+    wis: 10
+    cha: 16
   inventory:
     currency:
       cp: 0
       sp: 0
       ep: 0
-      gp: 0
+      gp: 5
       pp: 0
     equipment:
-      - mace
       - leather armor
-      - shield
-      - light crossbow
-      - chain mail
-
+      - Herbalism kit
+      - scholar's pack
+      - scroll case
+      - quarterstaff
+      - handaxe
+      - arcane focus
   header_items:
-    - "Given name: Brukzhul"
-    - "Military alias: John Smith"
+    - "Believes he is a druid"
   meta:
-    player_name: Allan Raymond
-    avatar_url: "https://s3.amazonaws.com/files.d20.io/images/51021080/IhKHpS2-BmghwZMeXOVrKg/max.png?1522528419"
-    latex_tag: pc:beez
+    player_name: Eric Mott
+    avatar_url: "https://s3.amazonaws.com/files.d20.io/images/51017787/F47u15vCnGkzEwWqiaWWBw/med.jpg?1522525843"
+    latex_tag: pc:joam
