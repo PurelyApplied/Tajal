@@ -1,9 +1,9 @@
 player_character:
   name: Beez
+  alignment: Lawful Neutral
   race: Half-orc
   # Could expand here?
   background: Soldier
-  alignment: Lawful Neutral
   classes:
     cleric:
       level: 1
@@ -16,11 +16,11 @@ player_character:
       - wisdom
       - charisma
     skills:
-    - athletics
-    - intimidation
-    - medicine
-    - persuasion
-    - survival
+      - athletics
+      - intimidation
+      - medicine
+      - persuasion
+      - survival
     languages:
       - common
       - orc
@@ -89,4 +89,4 @@ player_character:
   meta:
     player_name: Allan Raymond
     avatar_url: "https://s3.amazonaws.com/files.d20.io/images/51021080/IhKHpS2-BmghwZMeXOVrKg/max.png?1522528419"
-    latex_tag: pc:beez
+    latex_tag: sec:pc-beez
